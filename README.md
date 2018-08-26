@@ -28,4 +28,11 @@ To run this project Node and npm are required
 - [x] Webpack - 4.16.3
 - [x] Babel - 6.26.3
 - [x] Jest - 23.5.0
+- [x] ESlint - 5.4.0
+- [x] Prettier - 1.14.2
+- [x] Husky - 0.14.3
 - [x] And other necessary plugins
+
+### Configure WebStorm with Prettier
+
+Please follow [https://prettier.io/docs/en/webstorm.html](https://prettier.io/docs/en/webstorm.html) documentation.
